@@ -1,0 +1,15 @@
+h1{
+    background-color: rgb(7, 37, 35);
+    color: burlywood ;
+}
+
+*{
+    background-color: gold;
+    color: black;
+    border-color: black;
+}
+
+table{
+    background-color: black;
+    
+}
