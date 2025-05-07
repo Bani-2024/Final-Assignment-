@@ -44,5 +44,4 @@
     </footer>
 </center>
     <link rel="stylesheet" href="Taj.css">
-    </body>
-    </html>
+   
