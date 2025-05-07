@@ -1,2 +1,2 @@
 # Final-Assignment-
-git log -- <file_path> Replace <hotel.html>
+git log -- <hoteltaj.html> Replace <hotel.html>
